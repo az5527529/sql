@@ -1,0 +1,1 @@
+alter  table sb_room add is_full TINYINT(4) not null default '0' comment 'ÊÇ·ñÒÑÂú'; 
